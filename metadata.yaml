@@ -1,11 +1,16 @@
 _repo: Slipstream-the-autobiography-of-an-air-craftsman_70689
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70689-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Eugene E.
     gutenberg_agent_id: '55865'
     url: http://www.gutenberg.org/2009/agents/55865
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70689#Slipstream-the-autobiography-of-an-air-craftsman
 gutenberg_issued: '2023-05-03'
 identifiers:
   gutenberg: '70689'
